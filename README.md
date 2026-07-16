@@ -40,3 +40,9 @@ The [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger
 
 ## If you know you know
 Or rather, if you don't know, you don't know. Consider a learner who knows little enough about a topic, and about the engineering programme on which they are enrolled, that they don't know what they are or are not expected to know. The easiset route, and taken by some, is to present the view that any techincal challenge is beyond the reasonable scope of the programme, and of any specific modules contained therein, to maintain that anything they have undertaken and completed successfully is so because of their tenacity and intelligence, that anything they have either not attempted or not succeeded at were entirely outside the scope of reasonable expectations in the first place. Often that self-defined scope of reasonable expectation is entirely self-serving, reinforced by group-think among peers and sets the bar very low in terms of effort and achievement. On the flip-side, we occasionally encounter students who don't know what they shouldn't know, and who will consistenyly puch themselves to undertake and to achieve precisely because they didn't know when to categorise some ambition as unreasonable. 
+
+## Can we call 'Bullshit' on excuses?
+Is it reasonable of us to call bullshit on self-serving excuses for underperformance. Their dogs' appetite for homework can no longer be used as most students won't write antghing down, but I have seen an email from a parent whose child, sorry, university student, took an entire semester to get over the loss of the family pet. 
+
+## Is there a Psychologist in the house
+Adolesence, not the movie, but the state of mind.
