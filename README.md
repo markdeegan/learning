@@ -36,4 +36,4 @@ The following weekend, I had a nephew visit us for a few days. 14 years of age, 
 What I take out of this is very subjective, but I see a young lad, who has not (yet) expressed any interest in software, electronics, etc. He has never done electronics or any form of coding at school, which is something of an indictment of our education system. Yet, left to his own devices (excuse the pun) and armed only with his own curiosity, he made significant progress at building basic electronic projects, each of which would form the basis of an undergradute project at stage 1 or stage 2. 
 
 ## Dunning Kruger Effect
-The [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) is central to understanding any engineer's leagning journey.
+The [Dunning Kruger Effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) is central to understanding any engineer's learning journey. If a graduate engineer has not experienced the valley of despair, then they are not yet ready to join any engineering team where brutal honesty, with oneself as well as with others, is a requirement.
