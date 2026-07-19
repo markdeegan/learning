@@ -73,3 +73,6 @@ True character is revealed by our actions in private—when there is no audience
 ENgineers must have integrity. THey must do the right thing, enven when, particularly when they know there will be oposition to doing so. This goes way beyond the notion that one can become an engineer by having a piece of paper that says you failed no more than 60% of the assessment that were set for you.
 
 Engineers make decisions that improve lives, or save lives, or cost lives. To present something as an engineering solution to a problem is to state, imnplicity, if never explicitly, that it will improve a siuation and not disimprove it. Yes, it should be possible to prove that the solution will improve a situation, and to do so explicitly dy documeting the entire process so that others might examine, and validate what you did. So that others might reprodue it and examine every little aspect to see the solution performs as stated, or if the smallest part might be further improved etc.
+
+## Police
+Just because..
